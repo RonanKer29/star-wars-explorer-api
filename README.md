@@ -56,20 +56,6 @@ L’utilisateur peut naviguer par catégories, consulter les détails des élém
 
 ---
 
-## 📸 Aperçu
-
-*(Ajouter ici des screenshots ou un GIF de démonstration de l’app si possible)*
-
----
-
-## 🧪 Améliorations possibles
-
-- Ajout d’un système de favoris ou de notation.
-- Ajout d’un thème sombre.
-- Amélioration de l’accessibilité (navigation clavier, ARIA).
-- Intégration de debounce pour la recherche (ex: `useDebounce` ou `lodash.debounce`).
-
----
 
 ## 📄 Licence
 
